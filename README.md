@@ -1,4 +1,4 @@
-<h1 style="color: white">Hello There 👋</h1>
+<h1>Hello There 👋</h1>
 <img align="right" alt="GIF" src="https://github.com/felipeghizo/icones/blob/main/obi-wan.gif?raw=true" width="140" height="200" />
 
 <h3>Who Am I?</h3>
