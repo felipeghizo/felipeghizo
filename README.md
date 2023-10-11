@@ -10,7 +10,7 @@
 
 <img height="50" src="https://github.com/felipeghizo/icones/blob/main/html5-icon-1.png"><br />
 
-<img style="background-color: white;" height="50" src="https://github.com/felipeghizo/icones/blob/main/css3-icon.png"><br />
+<img style=" background-color:rgba(0,0,0,0.5);" height="50" src="https://github.com/felipeghizo/icones/blob/main/css3-icon.png"><br />
 <img height="50" src="https://github.com/felipeghizo/icones/blob/main/js-icon.png"><br />
 <img height="50" src="https://github.com/felipeghizo/icones/blob/main/python-icon.png"><br />
 <img height="50" src="https://github.com/felipeghizo/icones/blob/main/sql-icon.png"><br />
