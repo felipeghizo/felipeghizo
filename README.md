@@ -1,5 +1,5 @@
 # Hello There 👋
-<img align="right" alt="GIF" src="https://media.giphy.com/media/0jBfGHbFYlB5eaQbht/giphy.gif?raw=true" width="140" height="210" />
+<img align="right" alt="GIF" src="https://github.com/felipeghizo/icones/blob/main/css3-icon.gif?raw=true" width="140" height="210" />
 
 ### Who Am I?
 
@@ -9,6 +9,7 @@
 **languages and tools:**  
 
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/html5-icon-1.png"></code>
+bla
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/css3-icon.png"></code>
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/js-icon.png"></code>
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/python-icon.png"></code>
