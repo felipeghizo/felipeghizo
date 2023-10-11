@@ -18,4 +18,4 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="270" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/0jBfGHbFYlB5eaQbht/giphy.gif?raw=true" width="450" height="270" />
