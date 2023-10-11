@@ -9,6 +9,7 @@
 **languages and tools:**  
 
 <img height="50" src="https://github.com/felipeghizo/icones/blob/main/html5-icon-1.png"><br />
+<span style="color: green"> Some green text </span>
 
 <img style=" background-color:rgba(0,0,0,0.5);" height="50" src="https://github.com/felipeghizo/icones/blob/main/css3-icon.png"><br />
 <img height="50" src="https://github.com/felipeghizo/icones/blob/main/js-icon.png"><br />
