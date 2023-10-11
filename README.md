@@ -18,4 +18,4 @@
 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/0jBfGHbFYlB5eaQbht/giphy.gif?raw=true" width="190" height="260" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/0jBfGHbFYlB5eaQbht/giphy.gif?raw=true" width="140" height="210" />
