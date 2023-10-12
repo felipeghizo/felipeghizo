@@ -15,7 +15,6 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 - Cyber Security
 <p>:vulcan_salute: May the force be with us!</p>
 <br />
-<br />
 <h3>:owl: What I do know:</h3>
   
 **Languages:**  
