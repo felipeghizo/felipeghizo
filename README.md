@@ -2,7 +2,7 @@
 
 <h3>:raising_hand_man: Who am I?</h3>
 Just a regular everyday normal guy coding and learning more about the world. 
-Directly from Brasil :brazil: showing some of the things i enjoy doing, like web projects. 
+Directly from Brasil showing some of the things i enjoy doing, like web projects. 
 <br />
 To learn more about me just send a "Hello world!", if you are look enough you may receive a Lorem ipsum back.
 <br />
@@ -10,8 +10,11 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 
 <h3>:seedling: What I sm learning:</h3>
 - Arduino
+
 - NetWorking
+  
 - Cyber Security
+  
 :vulcan_salute: May the force be with us!
 
 <h3>What I do know:</h3>
