@@ -26,3 +26,5 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sublime-icon.png"></code>
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/arduino-icon.png"></code>
 
+[![felipeghizo's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeghizo)](https://github.com/anuraghazra/github-readme-stats)
+
