@@ -18,7 +18,7 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 
 <h3>What I do know:</h3>
 
-<div aling="left">
+<div float="left">
   
   **Languages:**  
 
@@ -30,7 +30,7 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
   <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/python-icon.png"></code>
 </div>
 
-<div aling="right">
+<div float="right">
 
   **Tools:**
 
