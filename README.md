@@ -1,7 +1,7 @@
 <h1>Hello There 👋</h1>
 
 <h3>:raising_hand_man: Who am I?</h3>
-Just a regular everyday normal guy coding and learning more about the world. 
+Just a regular everyday normal guy coding and learning more about the world. <br/>
 Directly from Brasil showing some of the things i enjoy doing, like web projects. 
 <br />
 To learn more about me just send a "Hello world!", if you are look enough you may receive a Lorem ipsum back.
@@ -17,29 +17,22 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 <p>:vulcan_salute: May the force be with us!</p>
 
 <h3>What I do know:</h3>
-
-<div float="left">
   
-  **Languages:**  
+**Languages:**  
 
-  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/html5-icon-1.png"></code>
-  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/css3-icon.png"></code>
-  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/js-icon.png"></code>
-  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/php-icon.png"></code>
-  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sql-icon.png"></code>
-  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/python-icon.png"></code>
-</div>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/html5-icon-1.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/css3-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/js-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/php-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sql-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/python-icon.png"></code>
 
-<div float="right">
+**Tools:**
 
-  **Tools:**
-
-  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/vscode-icon.png"></code>
-  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/pycharm-icon.png"></code>
-  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sublime-icon.png"></code>
-  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/arduino-icon.png"></code>
-</div>
-
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/vscode-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/pycharm-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sublime-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/arduino-icon.png"></code>
 
 <img align="right" alt="GIF" src="https://github.com/felipeghizo/icones/blob/main/obi-wan.gif?raw=true" width="140" height="200" />
 <a href="https://github-readme-stats.vercel.app/api?username=felipeghizo&show_icons=true&theme=merko">
