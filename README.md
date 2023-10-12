@@ -9,9 +9,6 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 <br />
 <br />
 <h3>What I do know:</h3>
-<a href="https://github-readme-stats.vercel.app/api?username=felipeghizo&show_icons=true&theme=merko">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=felipeghizo&show_icons=true&theme=merko" />
-</a>
 
 **Languages:**  
 
@@ -29,4 +26,6 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sublime-icon.png"></code>
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/arduino-icon.png"></code>
 
-
+<a href="https://github-readme-stats.vercel.app/api?username=felipeghizo&show_icons=true&theme=merko">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=felipeghizo&show_icons=true&theme=merko" />
+</a>
