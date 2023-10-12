@@ -7,16 +7,20 @@ Directly from Brasil showing some of the things i enjoy doing, like web projects
 <br />
 To learn more about me just send a "Hello world!", if you are look enough you may receive a Lorem ipsum back.
 <br />
-Here is my resume: <a href="https://github.com/felipeghizo/icones/blob/main/curriculo.pdf"/>
 <br />
 <h3>What I do know:</h3>
 
-**languages:**  
+**Languages and Tools:**  
 
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/html5-icon-1.png"><br />
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/css3-icon.png"><br />
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/python-icon.png"><br />
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/sql-icon.png"><br />
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/php-icon.png"><br />
+<img height="50" src="https://github.com/felipeghizo/icones/blob/main/html5-icon-1.png">
+<img height="50" src="https://github.com/felipeghizo/icones/blob/main/css3-icon.png">
+<img height="50" src="https://github.com/felipeghizo/icones/blob/main/python-icon.png">
+<img height="50" src="https://github.com/felipeghizo/icones/blob/main/sql-icon.png">
+<img height="50" src="https://github.com/felipeghizo/icones/blob/main/php-icon.png">
+<img height="50" src="https://github.com/felipeghizo/icones/blob/main/js-icon.png"><br />
 
+<img height="50" src="https://github.com/felipeghizo/icones/blob/main/vscode-icon-1.png">
+<img height="50" src="https://github.com/felipeghizo/icones/blob/main/pycharm-icon-1.png">
+<img height="50" src="https://github.com/felipeghizo/icones/blob/main/sublime-icon-1.png">
+<img height="50" src="https://github.com/felipeghizo/icones/blob/main/arduino-icon-1.png">
 
