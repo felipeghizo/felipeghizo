@@ -18,8 +18,9 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/php-icon.png"></code>
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sql-icon.png"></code>
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/python-icon.png"></code>
-<br />
+
 **Tools:**
+
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/vscode-icon.png"></code>
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/pycharm-icon.png"></code>
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sublime-icon.png"></code>
