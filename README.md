@@ -27,6 +27,6 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/arduino-icon.png"></code>
 
 <a href="https://github-readme-stats.vercel.app/api?username=felipeghizo&show_icons=true&theme=merko">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=felipeghizo&show_icons=true&theme=merko" />
 </a>
 
