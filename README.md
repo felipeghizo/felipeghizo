@@ -1,5 +1,4 @@
 <h1>Hello There 👋</h1>
-<img align="right" alt="GIF" src="https://github.com/felipeghizo/icones/blob/main/obi-wan.gif?raw=true" width="140" height="200" />
 
 <h3>Who Am I?</h3>
 Just a regular everyday normal guy coding and learning more about the world. 
@@ -26,6 +25,7 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sublime-icon.png"></code>
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/arduino-icon.png"></code>
 
+<img align="right" alt="GIF" src="https://github.com/felipeghizo/icones/blob/main/obi-wan.gif?raw=true" width="140" height="200" />
 <a href="https://github-readme-stats.vercel.app/api?username=felipeghizo&show_icons=true&theme=merko">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=felipeghizo&show_icons=true&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=felipeghizo&show_icons=true&theme=merko" />
 </a>
