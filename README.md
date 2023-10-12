@@ -9,10 +9,8 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 <br />
 
 <h3>:seedling: What I sm learning:</h3>
-- Arduino
-
-- NetWorking
-  
+- Arduino <br />
+- NetWorking <br />
 - Cyber Security
   
 :vulcan_salute: May the force be with us!
