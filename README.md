@@ -29,12 +29,12 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/python-icon.png"></code>
 
 **Tools:**
-
-<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/vscode-icon.png"></code>
-<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/pycharm-icon.png"></code>
-<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sublime-icon.png"></code>
-<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/arduino-icon.png"></code>
-
+<a aling="right">
+  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/vscode-icon.png"></code>
+  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/pycharm-icon.png"></code>
+  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sublime-icon.png"></code>
+  <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/arduino-icon.png"></code>
+</a>
 <img align="right" alt="GIF" src="https://github.com/felipeghizo/icones/blob/main/obi-wan.gif?raw=true" width="140" height="200" />
 <a href="https://github-readme-stats.vercel.app/api?username=felipeghizo&show_icons=true&theme=merko">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=felipeghizo&show_icons=true&theme=merko" />
