@@ -13,13 +13,14 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 **Languages and Tools:**  
 
 <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/html5-icon-1.png"></code>
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/css3-icon.png">
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/python-icon.png">
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/sql-icon.png">
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/php-icon.png">
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/js-icon.png">
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/vscode-icon.png">
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/pycharm-icon.png">
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/sublime-icon.png">
-<img height="50" src="https://github.com/felipeghizo/icones/blob/main/arduino-icon.png">
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/css3-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/js-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/php-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sql-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/python-icon.png"></code>
+<br />
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/vscode-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/pycharm-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sublime-icon.png"></code>
+<code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/arduino-icon.png"></code>
 
