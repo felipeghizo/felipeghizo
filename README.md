@@ -9,13 +9,15 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 <br />
 
 <h3>:seedling: What I am learning:</h3>
--  Arduino <br/>
--  NetWorking <br />
--  Cyber Security
-  
-:vulcan_salute: May the force be with us!
+
+- Arduino
+- NetWorking
+- Cyber Security
+
+<p>:vulcan_salute: May the force be with us!</p>
 
 <h3>What I do know:</h3>
+
 
 **Languages:**  
 
