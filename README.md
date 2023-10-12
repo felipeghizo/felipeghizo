@@ -18,7 +18,7 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
 
 <h3>What I do know:</h3>
 
-<a aling="left">
+<div aling="left">
   
   **Languages:**  
 
@@ -28,9 +28,9 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
   <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/php-icon.png"></code>
   <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sql-icon.png"></code>
   <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/python-icon.png"></code>
-</a>
+</div>
 
-<a aling="right">
+<div aling="right">
 
   **Tools:**
 
@@ -38,7 +38,7 @@ To learn more about me just send a "Hello world!", if you are look enough you ma
   <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/pycharm-icon.png"></code>
   <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/sublime-icon.png"></code>
   <code><img height="50" src="https://github.com/felipeghizo/icones/blob/main/arduino-icon.png"></code>
-</a>
+</div>
 
 
 <img align="right" alt="GIF" src="https://github.com/felipeghizo/icones/blob/main/obi-wan.gif?raw=true" width="140" height="200" />
