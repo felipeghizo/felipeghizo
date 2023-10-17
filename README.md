@@ -8,7 +8,7 @@ Directly from Brasil showing some of the things i enjoy doing, like web projects
 To learn more about me just send a "Hello world!", if you are look enough you may receive a Lorem ipsum back.
 <br />
 <br />
-<h3>:seedling: What I am learning:</h3>
+<h3>:seedling: I am learning now:</h3>
 
 - Arduino
 - NetWorking
